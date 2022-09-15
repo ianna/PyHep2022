@@ -6,6 +6,8 @@
 
 This is the repository for the talk [Awkward RDataFrame Tutorial](https://indi.to/jh92b) presented at the [PyHEP 2022 Workshop](https://indico.cern.ch/event/1150631/) on September 15, 2022.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7081586.svg)](https://doi.org/10.5281/zenodo.7081586)
+
 ## Abstract
 
 This Jupyter notebook tutorial will cover usage of Awkward Arrays within an RDataFrame.
